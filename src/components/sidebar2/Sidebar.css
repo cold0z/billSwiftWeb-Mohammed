@@ -1,0 +1,11 @@
+.box:link, .box:visited {
+  background-color: white;
+}
+
+.box:hover, .box:active {
+  background-color: #EDEEC1;
+  color: white;
+
+
+
+}
