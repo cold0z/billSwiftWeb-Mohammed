@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="SVGID" d="M355.426,463.962H343a10.292,10.292,0,0,0,10.292,10.292h2.134a5.146,5.146,0,0,0,5.146-5.146h0A5.146,5.146,0,0,0,355.426,463.962Z" transform="translate(-343 -463.962)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="SVGID-2" data-name="SVGID" d="M360.572,469.108a5.146,5.146,0,0,0-5.146-5.146H343a10.256,10.256,0,0,0,2.92,7.179,10.256,10.256,0,0,0-2.92,7.179h12.426a5.146,5.146,0,0,0,5.146-5.146h0a5.153,5.153,0,0,1,0-4.065Z" transform="translate(-343 -463.962)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="SVGID-3" data-name="SVGID" d="M355.426,484.369h-2.134A10.292,10.292,0,0,0,343,494.661h12.426a5.146,5.146,0,0,0,5.146-5.146h0A5.146,5.146,0,0,0,355.426,484.369Z" transform="translate(-343 -484.369)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_16314" data-name="Group 16314" transform="translate(-906 -1312)">
+    <circle id="Ellipse_340" data-name="Ellipse 340" cx="14.5" cy="14.5" r="14.5" transform="translate(906 1312)" fill="#e1e489"/>
+    <g id="Group_354" data-name="Group 354" transform="translate(911.926 1319.756)">
+      <g id="Group_348" data-name="Group 348">
+        <g id="Group_347" data-name="Group 347" clip-path="url(#clip-path)">
+          <g id="Group_346" data-name="Group 346" transform="translate(-6.031 -9.671)">
+            <rect id="Rectangle_70" data-name="Rectangle 70" width="22.206" height="3.562" transform="translate(0 15.702) rotate(-45)" fill="#d2006b"/>
+            <rect id="Rectangle_71" data-name="Rectangle 71" width="22.206" height="3.562" transform="translate(2.519 18.221) rotate(-45)" fill="#e42e45"/>
+            <rect id="Rectangle_72" data-name="Rectangle 72" width="22.206" height="3.562" transform="translate(5.037 20.74) rotate(-45)" fill="#e76936"/>
+            <rect id="Rectangle_73" data-name="Rectangle 73" width="22.206" height="3.562" transform="translate(7.556 23.258) rotate(-45)" fill="#ec9850"/>
+            <rect id="Rectangle_74" data-name="Rectangle 74" width="22.206" height="3.562" transform="translate(10.075 25.777) rotate(-45)" fill="#e1e489"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_350" data-name="Group 350">
+        <g id="Group_349" data-name="Group 349" clip-path="url(#clip-path-2)">
+          <path id="Path_347" data-name="Path 347" d="M355.426,480.369h-2.134A10.292,10.292,0,0,0,343,490.661h12.426a5.146,5.146,0,0,0,5.146-5.146h0A5.146,5.146,0,0,0,355.426,480.369Z" transform="translate(-343 -477.101)" fill="#5e5e5e" style="mix-blend-mode: overlay;isolation: isolate"/>
+        </g>
+      </g>
+      <g id="Group_353" data-name="Group 353" transform="translate(0 4.065)">
+        <g id="Group_352" data-name="Group 352" clip-path="url(#clip-path-3)">
+          <g id="Group_351" data-name="Group 351" transform="translate(-6.031 -8.332)">
+            <rect id="Rectangle_75" data-name="Rectangle 75" width="3.562" height="22.206" transform="translate(0 12.593) rotate(-45)" fill="#d2006b"/>
+            <rect id="Rectangle_76" data-name="Rectangle 76" width="3.562" height="22.206" transform="translate(2.519 10.075) rotate(-45)" fill="#e42e45"/>
+            <rect id="Rectangle_77" data-name="Rectangle 77" width="3.562" height="22.206" transform="translate(5.037 7.556) rotate(-45)" fill="#e76936"/>
+            <rect id="Rectangle_78" data-name="Rectangle 78" width="3.562" height="22.206" transform="translate(7.556 5.037) rotate(-45)" fill="#ec9850"/>
+            <rect id="Rectangle_79" data-name="Rectangle 79" width="3.562" height="22.206" transform="translate(10.075 2.519) rotate(-45)" fill="#e1e489"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg id="people_alt_24dp_5F6368" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_16322" data-name="Group 16322">
+    <rect id="Rectangle_3724" data-name="Rectangle 3724" width="24" height="24" transform="translate(0)" fill="none"/>
+  </g>
+  <g id="Group_16328" data-name="Group 16328" transform="translate(1 4)">
+    <g id="Group_16327" data-name="Group 16327">
+      <g id="Group_16323" data-name="Group 16323" transform="translate(15.67 9.13)">
+        <path id="Path_55349" data-name="Path 55349" d="M16.67,13.13A4.651,4.651,0,0,1,19,17v3h4V17C23,14.82,19.43,13.53,16.67,13.13Z" transform="translate(-16.67 -13.13)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_16324" data-name="Group 16324" transform="translate(4)">
+        <circle id="Ellipse_341" data-name="Ellipse 341" cx="4" cy="4" r="4" transform="translate(0)" fill="#fff"/>
+      </g>
+      <g id="Group_16325" data-name="Group 16325" transform="translate(12.67)">
+        <path id="Path_55350" data-name="Path 55350" d="M15,12a4,4,0,0,0,0-8,4.178,4.178,0,0,0-1.33.24,5.98,5.98,0,0,1,0,7.52A4.178,4.178,0,0,0,15,12Z" transform="translate(-13.67 -4)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_16326" data-name="Group 16326" transform="translate(0 9)">
+        <path id="Path_55351" data-name="Path 55351" d="M9,13c-2.67,0-8,1.34-8,4v3H17V17C17,14.34,11.67,13,9,13Z" transform="translate(-1 -13)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
