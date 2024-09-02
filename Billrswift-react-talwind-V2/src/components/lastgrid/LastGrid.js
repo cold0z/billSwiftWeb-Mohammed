@@ -6,41 +6,47 @@ import pic from '../images/pic5.png';
 
 const LastGrid = () => {
   return (
-    <div className="bg-gray-100 p-4">
+    <div className=" p-4">
       <div className="flex flex-wrap -mx-2">
-        
+
         <div className="w-full md:w-1/2 lg:w-1/4 px-2 mb-4">
-          <div className="bg-white rounded-lg shadow-md h-full p-6">
-            <h6 className="text-lg uppercase text-gray-600 mb-12">TIP</h6>
-            <div className="text-center my-3">
-              <img src={pc} className="mx-auto w-16 h-16" alt="Computer" />
-              <h4 className="mt-4 text-lg font-semibold">Send invoices via WhatsApp</h4>
-              <p className="text-gray-600 mt-2">
-                Get paid even faster. Share invoices instantly via WhatsApp.
-              </p>
+          <div className="bg-white rounded-lg shadow-md h-full p-6 flex flex-col justify-between">
+            <div>
+              <h6 className="text-lg uppercase text-gray-600 mb-12">TIP</h6>
+              <div className="text-center my-3">
+                <img src={pc} className="mx-auto w-16 h-16" alt="Computer" />
+                <h4 className="mt-4 text-lg font-semibold">Send invoices via WhatsApp</h4>
+                <p className="text-gray-600 mt-2 mb-6 flex-grow">
+                  Get paid even faster. Share invoices instantly via WhatsApp.
+                </p>
+              </div>
             </div>
-            <a href="#" className="text-blue-600 hover:underline">
+            <a href="#" className="text-blue-600 mt-auto">
               Find out more
             </a>
           </div>
         </div>
 
-        
+
+
         <div className="w-full md:w-1/2 lg:w-1/4 px-2 mb-4">
-          <div className="bg-white shadow-md rounded-lg  h-full p-6">
-            <h6 className="text-lg uppercase text-gray-600 mb-12">ASSISTANCE</h6>
-            <div className="text-center my-3">
-              <img src={assist} className="mx-auto w-16 h-16" alt="Assistant" />
-              <h4 className="mt-4 text-lg font-semibold">Your trial is about to expire</h4>
-              <p className="text-gray-600 mt-2 mb-10">We’re here to help you subscribe.</p>
+          <div className="bg-white shadow-md rounded-lg h-full p-6 flex flex-col justify-between">
+            <div>
+              <h6 className="text-lg uppercase text-gray-600 mb-12">ASSISTANCE</h6>
+              <div className="text-center my-3">
+                <img src={assist} className="mx-auto w-16 h-16" alt="Assistant" />
+                <h4 className="mt-4 text-lg font-semibold">Your trial is about to expire</h4>
+                <p className="text-gray-600 mt-2 mb-6 flex-grow">We’re here to help you subscribe.</p>
+              </div>
             </div>
-            <a href="#" className="text-blue-600 hover:underline">
+            <a href="#" className="text-blue-600 mt-auto">
               Chat with sales
             </a>
           </div>
         </div>
 
-        
+
+
         <div className="w-full lg:w-2/4 px-2 mb-4">
           <div className="bg-white shadow-md rounded-lg p-6 flex flex-col justify-between relative">
             <button className="absolute top-2 right-2 text-white bg-orange-500 rounded-xl p-1 hover:bg-orange-600 ">
